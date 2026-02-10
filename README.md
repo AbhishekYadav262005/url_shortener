@@ -36,7 +36,7 @@ Design Goals
 
 ### 🔗 Short URL Generation
 
-Base62 encoding
+- Base62 encoding
 
 - Collision-safe generation
 
@@ -174,7 +174,10 @@ Response:
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🐳 Local Development (Docker)
+```
 docker compose up --build
+```
+
 Services started:
 
 - Node App
